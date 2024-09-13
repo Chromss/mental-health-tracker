@@ -123,4 +123,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://pbp.cs.ui.ac.id/nabil.zahid/mentalhealthtrackertutor", "https://pbp.cs.ui.ac.id/nabil.zahid/mentalhealthtrackertutor"]
+CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://pbp.cs.ui.ac.id/nabil.zahid/mentalhealthtracker", "https://pbp.cs.ui.ac.id/nabil.zahid/mentalhealthtracker"]
